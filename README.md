@@ -35,7 +35,7 @@
 
 ## 💳 Pricing
 
-| | Free | Lite (₹149/mo) | Pro (₹499/mo) |
+| | Free | Lite (Starts from ₹49) | Pro (Starts from ₹149) |
 |---|---|---|---|
 | AI Health Assistant | ✅ Basic | ✅ Advanced | ✅ Bleeding-Edge |
 | Health Reports | ✅ | ✅ Advanced | ✅ Unlimited |
